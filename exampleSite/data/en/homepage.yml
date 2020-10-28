@@ -73,16 +73,13 @@ subscription:
   placeholder: Your Email Address Here
 testimonial:
   enable: true
-  title: Watch Review
+  title: What Our Clients Say
   testimonial_item:
   - name: Jonathon Andrew
-    designation: CEO, Themefisher
+    designation: CEO, Mall Mart
     image: images/avater.png
-    content: A wonderful serenity has taken possession of my entire soul, like these
-      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
-      feel the charm of existence in this spot, which was created for the bliss of
-      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
+    content: The level of care and customer service our we now provide our customers
+      is a testament to the beautiful solution made possible by whaate
   - name: Jonathon Andrew
     designation: CEO, Themefisher
     image: images/avater.png
