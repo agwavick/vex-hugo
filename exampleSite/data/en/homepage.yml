@@ -23,18 +23,15 @@ features:
     icon: tf-ion-ios-cart-outline
     content: ''
   right_side:
-  - title: Smooth Touch
+  - title: Dosh
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
+    content: ''
+  - title: Sweet Sensation
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
+    content: ''
+  - title: Coldstone
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: ''
 promo:
   enable: true
   image: images/watch.png
