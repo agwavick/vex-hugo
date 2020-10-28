@@ -1,9 +1,10 @@
 ---
 banner:
   enable: true
-  title: Grow your business with Whaate
-  content: The easiest way to Connect with customers anywhere online. We connect SMEs
-    through different social network
+  title: Grow your Business with Whaate
+  content: With a Whaate Account, you get more than a business listing. Your free
+    Business Profile lets you easily connect with customers across different social
+    network
   image: images/watch.png
   button:
     enable: true
