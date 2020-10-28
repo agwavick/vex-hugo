@@ -1,6 +1,7 @@
 ---
 title: Contact
-description: this is a meta description
+description: this is a meta descriptionNeed a quick answer? Enter your question below
+  for instant responses.
 office:
   title: Central Office
   mobile: "+2348080015753"
