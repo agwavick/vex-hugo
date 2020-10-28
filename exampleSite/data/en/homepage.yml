@@ -10,21 +10,18 @@ banner:
     link: Signup
 features:
   enable: true
-  title: Our Core Features
+  title: Businesses that work with us
   image: images/watch-2.png
   left_side:
-  - title: Smooth Touch
+  - title: Mall Mart
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
+    content: ''
+  - title: Spar
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
+    content: ''
+  - title: Domino
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: ''
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
