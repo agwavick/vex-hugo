@@ -35,11 +35,11 @@ features:
 promo:
   enable: true
   image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: Occupy a Space in Your Customer’s mind
+  content: Business doesn't have to stop when a customer leaves your store. Whaate
+    allows you to keep the conversation going. Notify your customers about new promos,
+    deals and keep the conversation going. Engage customers simply via SMS. Reach
+    your customers exactly where they are.
 about_product:
   enable: true
   title: Why Choose Apple Watch
