@@ -3,11 +3,10 @@ title: Contact
 description: this is a meta description
 office:
   title: Central Office
-  mobile: '0124857985320'
-  email: demo@email.com
-  location: Dhaka, Bangladedsh
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna
+  mobile: "+2348080015753"
+  email: hello@whaate.com
+  location: 34 Federal Road, Railway Compound, EB, Yaba Lagos, Nigeria
+  content: We’re happy to help!
 opennig_hour:
   title: Opening Hours
   day_time:
