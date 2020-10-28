@@ -68,8 +68,8 @@ products:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  title: Never Miss a Single Update
+  content: Stay connected
   placeholder: Your Email Address Here
 testimonial:
   enable: true
