@@ -2,7 +2,8 @@
 banner:
   enable: true
   title: Grow your business with Whaate
-  content: We connect SMEs through different social network
+  content: The easiest way to Connect with customers anywhere online. We connect SMEs
+    through different social network
   image: images/watch.png
   button:
     enable: true
