@@ -42,13 +42,13 @@ promo:
     your customers exactly where they are.
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: WE ARE EMPOWERING BUSINESSES ACROSS AFRICA
   items:
   - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    title: FASTEST CHANNEL
+    content: |-
+      Use SMS channels to communicate with customers. It’s simple to use. You can create a promo in minutes.
+      Personalization across channels
     button:
       enable: false
       label: Check Features
