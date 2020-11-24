@@ -21,7 +21,16 @@ features:
     content: ''
   - icon: ".."
     content: ''
-  right_side: []
+  right_side:
+  - title: ''
+    icon: "."
+    content: ''
+  - title: ''
+    icon: ''
+    content: ''
+  - title: ''
+    icon: ''
+    content: ''
 promo:
   enable: true
   image: images/watch.png
