@@ -48,7 +48,7 @@ about_product:
       enable: false
       label: Check Features
       link: "#"
-  - image: images/3.PNG
+  - image: "/images/6.PNG"
     title: ''
     content: Deliver personalized customer experiences at scale. Save cost on all
       your social media ads by simply sending free SMS to your customer and thus building
