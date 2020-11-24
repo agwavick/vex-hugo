@@ -41,10 +41,9 @@ about_product:
   title: The difference is like day and night.
   items:
   - image: images/2.PNG
-    title: ''
-    content: |-
-      Use SMS channels to communicate with customers. It’s simple to use. You can create a promo in minutes.
-      Personalization across channels
+    title: Watch Faces
+    content: Everything you do on Apple Watch starts with your watch face. With watchOS
+      7, watch faces are more customizable, powerful, and discoverable than ever.
     button:
       enable: false
       label: Check Features
