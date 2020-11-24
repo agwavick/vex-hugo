@@ -11,7 +11,7 @@ banner:
 features:
   enable: true
   title: Which Apple Watch is right for you?
-  image: images/rt.PNG
+  image: images/1.PNG
   left_side: []
   right_side: []
 promo:
