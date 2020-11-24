@@ -11,27 +11,9 @@ banner:
 features:
   enable: true
   title: Which Apple Watch is right for you?
-  image: images/watch-2.png
-  left_side:
-  - title: Mall Mart
-    icon: tf-ion-ios-alarm-outline
-    content: ''
-  - title: Spar
-    icon: tf-ion-ios-bell-outline
-    content: ''
-  - title: Domino
-    icon: tf-ion-ios-cart-outline
-    content: ''
-  right_side:
-  - title: Dosh
-    icon: tf-ion-ios-alarm-outline
-    content: ''
-  - title: Sweet Sensation
-    icon: tf-ion-ios-bell-outline
-    content: ''
-  - title: Coldstone
-    icon: tf-ion-ios-cart-outline
-    content: ''
+  image: images/rt.PNG
+  left_side: []
+  right_side: []
 promo:
   enable: true
   image: images/watch.png
