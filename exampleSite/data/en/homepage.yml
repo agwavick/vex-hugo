@@ -2,9 +2,7 @@
 banner:
   enable: true
   title: Grow your Business with Whaate
-  content: With a Whaate Account, you get more than a business listing. Your free
-    Business Profile lets you easily connect with customers across different social
-    network
+  content: We've hundreds of great offers across Home, Fashion, Electricals and Gifts
   image: images/watch.png
   button:
     enable: true
