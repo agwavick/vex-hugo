@@ -1,9 +1,9 @@
-baseurl = "http://examplesite.com/"
+baseurl = "http://psalm23stores.co.netlify.com"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "PSALM 23"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
@@ -17,49 +17,42 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-weight = 4
-[[menu.footer]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-weight = 3
+URL = "blog"
+name = "Blog"
+weight = 1
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 2
 [[menu.footer]]
-URL = "blog"
-name = "Blog"
-weight = 1
-[[menu.main]]
-name = "Get Started"
-url = "/GetStarted"
-weight = 7
-[[menu.main]]
-name = "Sign In"
-url = "/Signin"
-weight = 6
-[[menu.main]]
-name = "FAQ"
-url = "/FAQ"
-weight = 4
-[[menu.main]]
-name = "Merchants"
-url = "/Merchants"
+URL = "terms-conditions"
+name = "Terms & Conditions"
 weight = 3
-[[menu.main]]
-name = "Company"
-url = "/company"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 5
+[[menu.footer]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 4
 [[menu.main]]
 URL = "/"
 name = "Home"
 weight = 1
+[[menu.main]]
+URL = "products"
+name = "Products"
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "testimonial"
+name = "Review"
+pre = "#"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 author = "Themefisher"
 contact_form_action = "#"
