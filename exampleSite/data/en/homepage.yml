@@ -33,7 +33,7 @@ features:
     content: ''
 promo:
   enable: true
-  image: images/watch.png
+  image: images/4.PNG
   title: Apple Watch essentials
   content: |-
     AirPods
