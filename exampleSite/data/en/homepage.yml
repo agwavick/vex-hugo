@@ -52,8 +52,8 @@ about_product:
       enable: false
       label: Check Features
       link: "#"
-  - image: images/showcase/showcase-3.png
-    title: COST SAVING
+  - image: images/3.PNG
+    title: ''
     content: Deliver personalized customer experiences at scale. Save cost on all
       your social media ads by simply sending free SMS to your customer and thus building
       a stronger connection to your brand.
