@@ -13,11 +13,11 @@ fields:
     name: title
     label: title
   - type: text
-    name: content
-    label: content
-  - type: text
     name: image
     label: image
+  - type: text
+    name: content
+    label: content
   - type: field_group
     name: button
     label: button
