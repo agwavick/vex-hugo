@@ -19,7 +19,7 @@ features:
   - title: ''
     icon: "."
     content: ''
-  - icon: "."
+  - icon: ".."
     content: ''
   right_side: []
 promo:
