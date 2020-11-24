@@ -34,10 +34,8 @@ features:
 promo:
   enable: true
   image: images/4.PNG
-  title: Apple Watch essentials
-  content: |-
-    AirPods
-    Magic runs in the family.
+  title: 'Apple Watch essentials: AirPods'
+  content: Magic runs in the family.
 about_product:
   enable: true
   title: The difference is like day and night.
