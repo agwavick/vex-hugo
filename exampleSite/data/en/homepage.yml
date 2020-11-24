@@ -48,7 +48,7 @@ about_product:
       enable: false
       label: Check Features
       link: "#"
-  - image: "/images/6.PNG"
+  - image: images/7.PNG
     title: Sleep App
     content: Sleep is one of the most important aspects of your health, but also one
       of the least understood. Tracking is a good start, but the new Sleep app goes
