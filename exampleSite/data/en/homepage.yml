@@ -43,8 +43,8 @@ about_product:
   enable: true
   title: The difference is like day and night.
   items:
-  - image: images/showcase/showcase-4.png
-    title: FASTEST CHANNEL
+  - image: images/2.PNG
+    title: ''
     content: |-
       Use SMS channels to communicate with customers. It’s simple to use. You can create a promo in minutes.
       Personalization across channels
