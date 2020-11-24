@@ -71,22 +71,6 @@ subscription:
   content: Stay connected
   placeholder: Your Email Address Here
 testimonial:
-  enable: true
+  enable: false
   title: What Our Clients Say
-  testimonial_item:
-  - name: Jonathon Andrew
-    designation: CEO, Mall Mart
-    image: images/avater.png
-    content: The level of care and customer service our we now provide our customers
-      is a testament to the beautiful solution made possible by whaate
-  - name: Dosh Agwa
-    designation: CEO, Doosh Kitchens
-    image: images/avater.png
-    content: "“Whaate is a true partner that’s getting us to the growth stage – fast.
-      It’s like having another team within our team. There’s no hand-holding needed
-      – just great strategy and quick execution.”"
-  - name: Barbara Olamilaken
-    designation: CEO, Coldstone
-    image: images/avater.png
-    content: Partnering with Whaate is like building your own team, without the ramp-up
-      time.
+  testimonial_item: []
