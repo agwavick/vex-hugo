@@ -34,11 +34,10 @@ features:
 promo:
   enable: true
   image: images/watch.png
-  title: Why Apple Watch. It's the ultimate device for a healthy life.
-  content: Business doesn't have to stop when a customer leaves your store. Whaate
-    allows you to keep the conversation going. Notify your customers about new promos,
-    deals and keep the conversation going. Engage customers simply via SMS. Reach
-    your customers exactly where they are.
+  title: Apple Watch essentials
+  content: |-
+    AirPods
+    Magic runs in the family.
 about_product:
   enable: true
   title: The difference is like day and night.
