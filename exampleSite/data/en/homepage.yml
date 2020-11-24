@@ -59,7 +59,7 @@ about_product:
       label: Check Features
       link: "#"
 products:
-  enable: false
+  enable: true
   title: Apple Watch essentials
 subscription:
   enable: true
