@@ -29,7 +29,7 @@ features:
     icon: "."
     content: ''
   - title: ''
-    icon: ''
+    icon: "."
     content: ''
 promo:
   enable: true
