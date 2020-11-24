@@ -60,7 +60,7 @@ about_product:
       link: "#"
 products:
   enable: true
-  title: Apple Watch essentials
+  title: New Product
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
