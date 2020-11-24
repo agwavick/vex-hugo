@@ -12,25 +12,8 @@ features:
   enable: true
   title: Which Apple Watch is right for you?
   image: images/1.PNG
-  left_side:
-  - title: ''
-    icon: ''
-    content: ''
-  - title: ''
-    icon: "."
-    content: ''
-  - icon: ".."
-    content: ''
-  right_side:
-  - title: ''
-    icon: "."
-    content: ''
-  - title: ''
-    icon: "."
-    content: ''
-  - title: ''
-    icon: "."
-    content: ''
+  left_side: []
+  right_side: []
 promo:
   enable: true
   image: images/4.PNG
