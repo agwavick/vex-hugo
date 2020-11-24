@@ -49,10 +49,11 @@ about_product:
       label: Check Features
       link: "#"
   - image: "/images/6.PNG"
-    title: ''
-    content: Deliver personalized customer experiences at scale. Save cost on all
-      your social media ads by simply sending free SMS to your customer and thus building
-      a stronger connection to your brand.
+    title: Sleep App
+    content: Sleep is one of the most important aspects of your health, but also one
+      of the least understood. Tracking is a good start, but the new Sleep app goes
+      further. It helps you create a schedule and a bedtime routine so you can meet
+      your sleep goals.
     button:
       enable: false
       label: Check Features
