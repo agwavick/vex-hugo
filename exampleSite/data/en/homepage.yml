@@ -13,6 +13,12 @@ features:
   title: Which Apple Watch is right for you?
   image: images/1.PNG
   left_side:
+  - title: ''
+    icon: ''
+    content: ''
+  - title: ''
+    icon: "."
+    content: ''
   - icon: "."
     content: ''
   right_side: []
