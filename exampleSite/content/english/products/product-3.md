@@ -1,15 +1,13 @@
 ---
-title: 'Apple Watch: Space Gray Aluminum Case with Braided Solo Loop'
+title: Space Gray Aluminum Case with Braided Solo Loop
 date: 2020-11-25T05:22:16+00:00
 images:
-- "/images/1.jpg"
-- "/images/2.jpg"
-- "/images/3.jpg"
-- "/images/4.jpg"
-- "/images/5.jpg"
-- "/images/7.jpg"
-- "/images/6.jpg"
-description: this is meta description
+- "/images/3-1.jpg"
+- "/images/5.png"
+- "/images/2-1.jpg"
+- "/images/1-1.jpg"
+- "/images/4-1.PNG"
+description: Apple Watch
 price: "$749"
 discount_price: '25.00'
 colors:
