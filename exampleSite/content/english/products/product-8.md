@@ -1,7 +1,9 @@
 ---
 title: 2019 Apple AirPods with Charging Case
 date: 2020-11-25T05:22:16+00:00
-images: []
+images:
+- "/images/k.jpg"
+- "/images/kk.jpg"
 description: Apple AirPods
 price: "210"
 discount_price: "156"
