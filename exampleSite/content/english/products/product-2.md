@@ -6,14 +6,8 @@ images: []
 description: Apple Watch
 price: "£579.00"
 discount_price: "£479.00"
-colors:
-- black
-- white
-- gray
-sizes:
-- small
-- medium
-- large
+colors: []
+sizes: []
 
 ---
 Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
