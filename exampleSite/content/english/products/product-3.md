@@ -1,5 +1,5 @@
 ---
-title: Xiaomi Watch
+title: Apple Watch
 date: 2020-11-25T05:22:16+00:00
 images:
 - "/images/1.jpg"
