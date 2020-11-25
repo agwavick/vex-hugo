@@ -22,4 +22,4 @@ Standard Delivery
 
 Free
 
-UK delivery within 7-10 days, 7.30am - 6pm, Monday to Saturday. Free on orders over £50, otherwise £3.50.
+UK delivery within 7-10 days, 7.30 am - 6 pm, Monday to Saturday. Free on orders over £50, otherwise £3.50.
