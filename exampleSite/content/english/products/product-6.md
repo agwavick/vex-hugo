@@ -1,5 +1,5 @@
 ---
-title: Gold Stainless Steel Case with Leather Link
+title: Apple Watch SE GPS, 40mm Gold Aluminium Case with Pink Sand Sport Band - Regular
 date: 2019-10-17T11:22:16.000+06:00
 images:
 - "/images/bb.jpg"
@@ -17,6 +17,4 @@ sizes:
 - 44mm Fits 140–220mm wrists.
 
 ---
-The stainless steel case is durable and polished to a shiny, mirror-like finish.
-
-The Leather Link is made from handcrafted Roux Granada leather with no clasps or buckles, and has embedded magnets for a secure and adjustable fit.
+Free standard delivery and extended returns until 28 January 2021
