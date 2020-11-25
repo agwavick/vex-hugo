@@ -1,6 +1,6 @@
 ---
 title: Xiaomi Watch
-date: 2019-10-17T11:22:16.000+06:00
+date: 2020-11-25T05:22:16+00:00
 images:
 - "/images/1.jpg"
 - "/images/2.jpg"
