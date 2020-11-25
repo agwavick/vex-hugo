@@ -1,11 +1,11 @@
 +++
-colors = ["black", "white", "gray"]
+colors = []
 date = 2020-11-25T05:22:16Z
 description = "Apple AirPods"
-discount_price = "156"
+discount_price = "290"
 draft = true
 images = ["/images/k.jpg", "/images/kk.jpg"]
-price = "210"
+price = "320"
 sizes = []
 title = "Apple AirPods Pro with Wireless Charging Case"
 
