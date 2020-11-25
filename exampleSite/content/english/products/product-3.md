@@ -1,5 +1,5 @@
 ---
-title: Apple Watch
+title: 'Apple Watch: Space Gray Aluminum Case with Braided Solo Loop'
 date: 2020-11-25T05:22:16+00:00
 images:
 - "/images/1.jpg"
