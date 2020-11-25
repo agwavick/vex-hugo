@@ -2,7 +2,15 @@
 title: Apple Watch Series 6 GPS, 40mm Space Grey Aluminium Case with Black Sport Band
   - Regular
 date: 2020-11-27T11:21:16+00:00
-images: []
+images:
+- "/images/h.jpg"
+- "/images/hh.jpg"
+- "/images/hhhh.jpg"
+- "/images/hhh.jpg"
+- "/images/hhhhh.jpg"
+- "/images/hhhhhh.jpg"
+- "/images/hhhhhhh.jpg"
+- "/images/hhhhhhhh.jpg"
 description: Apple Watch
 price: "600"
 discount_price: "549"
