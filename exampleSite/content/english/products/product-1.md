@@ -1,25 +1,17 @@
 ---
-title: Silver Aluminum Case with Sport Loop
-date: 2019-10-17T11:22:16.000+06:00
-images:
-- "/images/ww.jpg"
-- "/images/w.jpg"
-- "/images/5.png"
-- "/images/watch-s6-kf-ecg-202009.png"
-- "/images/www.jpg"
+title: Apple Watch Series 6 GPS, 44mm Blue Aluminium Case with Deep Navy Sport Band
+  - Regular
+date: 2020-11-26T02:19:16+00:00
+images: []
 description: Apple Watch
-price: "$629"
-discount_price: "$547"
-colors:
-- black
-- white
-- gray
-sizes:
-- small
-- medium
-- large
+price: "640"
+discount_price: "$590"
+colors: []
+sizes: []
 
 ---
-The aluminium case is lightweight and made from 100 percent recycled aerospace-grade alloy.
+Standard Delivery
 
-The Sport Loop is made from a soft and breathable double-layer nylon weave, with a hook-and-loop fastener for quick and easy adjustment.
+Free
+
+UK delivery within 7-10 days, 7.30am - 6pm, Monday to Saturday. Free on orders over £50, otherwise £3.50.
