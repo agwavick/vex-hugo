@@ -1,12 +1,8 @@
 ---
-title: Space Gray Aluminum Case with Braided Solo Loop
+title: Apple Watch Series 6 GPS, 44mm Space Grey Aluminium Case with Black Sport Band
+  - Regular
 date: 2020-11-25T05:22:16+00:00
-images:
-- "/images/2-1.jpg"
-- "/images/1-1.jpg"
-- "/images/3-1.jpg"
-- "/images/5.png"
-- "/images/4-1.PNG"
+images: []
 description: Apple Watch
 price: "$649"
 discount_price: '25.00'
