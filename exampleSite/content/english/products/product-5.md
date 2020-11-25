@@ -10,8 +10,8 @@ images:
 - "/images/v.jpg"
 - "/images/vv.jpg"
 description: Apple Watch
-price: "$599"
-discount_price: '25.00'
+price: "$699"
+discount_price: "$550"
 colors:
 - black
 - white
