@@ -12,8 +12,8 @@ images:
 - "/images/dddddd.jpg"
 - "/images/dddddddd.jpg"
 description: Apple Watch
-price: "£539.00"
-discount_price: "£479.00"
+price: "639.22"
+discount_price: "500.11"
 colors: []
 sizes: []
 
