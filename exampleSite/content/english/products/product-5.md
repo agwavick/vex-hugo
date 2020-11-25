@@ -13,16 +13,10 @@ images:
 - "/images/eeeeee.jpg"
 - "/images/eeeeeeee.jpg"
 description: Apple Watch
-price: "$699"
-discount_price: "$550"
-colors:
-- black
-- white
-- gray
-sizes:
-- small
-- medium
-- large
+price: "607.25"
+discount_price: "545"
+colors: []
+sizes: []
 
 ---
 The aluminum case is lightweight and made from 100 percent recycled aerospace-grade alloy.
