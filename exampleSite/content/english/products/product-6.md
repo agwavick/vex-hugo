@@ -1,24 +1,24 @@
 ---
-title: "Realme Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-6.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: Gold Stainless Steel Case with Leather Link
+date: 2019-10-17T11:22:16.000+06:00
+images:
+- images/showcase/showcase-6.png
+- images/showcase/showcase-2.png
+- images/showcase/showcase-3.png
+- images/showcase/showcase-4.png
+description: Apple Watch
+price: '30.00'
+discount_price: '25.00'
+colors:
+- black
+- white
+- gray
+sizes:
+- small
+- medium
+- large
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
+The stainless steel case is durable and polished to a shiny, mirror-like finish.
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+The Leather Link is made from handcrafted Roux Granada leather with no clasps or buckles, and has embedded magnets for a secure and adjustable fit.
