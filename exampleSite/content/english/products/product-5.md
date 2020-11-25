@@ -1,14 +1,9 @@
 ---
-title: Gold Aluminum Case with Solo Loop
+title: Apple Watch Series 6 GPS, 40mm Gold Aluminium Case with Pink Sand Sport Band
+  - Regular
 date: 2020-11-25T05:22:16+00:00
 image: images/showcase/showcase-5.png
-images:
-- "/images/vv.jpg"
-- "/images/v.jpg"
-- "/images/vvv.jpg"
-- "/images/watch-s6-kf-ecg-202009.png"
-- "/images/4-1.PNG"
-- "/images/5.png"
+images: []
 description: Apple Watch
 price: "$699"
 discount_price: "$550"
