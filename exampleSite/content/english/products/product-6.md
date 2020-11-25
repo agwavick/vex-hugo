@@ -9,10 +9,13 @@ images:
 description: Apple Watch
 price: "$949"
 discount_price: "$869"
-colors: []
+colors:
+- Black
+- Saddle Brown
+- Baltic Blue
 sizes:
-- medium
-- large
+- 40mm Fits 130–200mm wrists.
+- 44mm Fits 140–220mm wrists.
 
 ---
 The stainless steel case is durable and polished to a shiny, mirror-like finish.
