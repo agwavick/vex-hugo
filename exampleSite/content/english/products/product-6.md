@@ -1,10 +1,7 @@
 ---
 title: Apple Watch SE GPS, 40mm Gold Aluminium Case with Pink Sand Sport Band - Regular
-date: 2019-10-17T11:22:16.000+06:00
-images:
-- "/images/bb.jpg"
-- "/images/b.jpg"
-- "/images/bbb.jpg"
+date: 2020-11-25T05:22:16+00:00
+images: []
 description: Apple Watch
 price: "$949"
 discount_price: "$869"
