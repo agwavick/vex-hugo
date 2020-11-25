@@ -10,7 +10,7 @@ images:
 - "/images/7.jpg"
 - "/images/6.jpg"
 description: this is meta description
-price: '30.00'
+price: "$749"
 discount_price: '25.00'
 colors:
 - black
