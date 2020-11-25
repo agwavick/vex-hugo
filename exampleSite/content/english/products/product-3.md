@@ -2,8 +2,8 @@
 title: Space Gray Aluminum Case with Braided Solo Loop
 date: 2019-10-17T11:22:16.000+06:00
 images:
-- images/showcase/showcase-3.png
 - images/showcase/showcase-2.png
+- images/showcase/showcase-3.png
 - images/showcase/showcase-1.png
 - images/showcase/showcase-4.png
 description: Apple Watch
