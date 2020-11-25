@@ -1,24 +1,13 @@
 ---
-title: "OnePlus Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-7.png"
-  - "images/showcase/showcase-5.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: Apple Watch Nike Series 6 GPS, 44mm Space Grey Aluminium Case with Anthracite/Black
+  Nike Sport Band - Regular
+date: 2020-11-26T05:22:16+00:00
+images: []
+description: Apple Watch
+price: "625"
+discount_price: "580"
+colors: []
+sizes: []
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
-
 Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
