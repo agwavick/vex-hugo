@@ -20,4 +20,6 @@ sizes:
 - large
 
 ---
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+The aluminum case is lightweight and made from 100 percent recycled aerospace-grade alloy.
+
+The Braided Solo Loop is made from recycled yarn and silicone threads for an ultracomfortable, stretchable design with no clasps or buckles.
