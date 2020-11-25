@@ -2,10 +2,9 @@
 title: Gold Stainless Steel Case with Leather Link
 date: 2019-10-17T11:22:16.000+06:00
 images:
-- images/showcase/showcase-6.png
-- images/showcase/showcase-2.png
-- images/showcase/showcase-3.png
-- images/showcase/showcase-4.png
+- "/images/bb.jpg"
+- "/images/b.jpg"
+- "/images/bbb.jpg"
 description: Apple Watch
 price: "$949"
 discount_price: "$869"
