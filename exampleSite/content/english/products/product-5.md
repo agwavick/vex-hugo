@@ -3,7 +3,15 @@ title: Apple Watch Series 6 GPS, 40mm Gold Aluminium Case with Pink Sand Sport B
   - Regular
 date: 2020-11-25T05:22:16+00:00
 image: images/showcase/showcase-5.png
-images: []
+images:
+- "/images/e.jpg"
+- "/images/eeeeeee.jpg"
+- "/images/eeeee.jpg"
+- "/images/eeee.jpg"
+- "/images/eee.jpg"
+- "/images/ee.jpg"
+- "/images/eeeeee.jpg"
+- "/images/eeeeeeee.jpg"
 description: Apple Watch
 price: "$699"
 discount_price: "$550"
