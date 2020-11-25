@@ -7,14 +7,10 @@ images:
 - images/showcase/showcase-3.png
 - images/showcase/showcase-4.png
 description: Apple Watch
-price: '30.00'
-discount_price: '25.00'
-colors:
-- black
-- white
-- gray
+price: "$949"
+discount_price: "$869"
+colors: []
 sizes:
-- small
 - medium
 - large
 
