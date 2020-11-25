@@ -9,10 +9,7 @@ colors:
 - black
 - white
 - gray
-sizes:
-- small
-- medium
-- large
+sizes: []
 
 ---
 Accessories Included
