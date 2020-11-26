@@ -2,10 +2,9 @@
 colors = []
 date = 2020-11-25T05:22:16Z
 description = "Apple AirPods"
-discount_price = "290"
-draft = true
-images = []
-price = "320"
+discount_price = "300"
+images = ["/images/l.jpg", "/images/ll.jpg", "/images/lll.jpg", "/images/llllll.jpg", "/images/llll.jpg", "/images/lllll.jpg", "/images/llllllll.jpg", "/images/lllllll.jpg"]
+price = "350"
 sizes = []
 title = "Apple AirPods Pro with Wireless Charging Case"
 
