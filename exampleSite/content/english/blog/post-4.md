@@ -1,6 +1,6 @@
 ---
 title: 'Why You Should Buy a Smart Watch: Pros and Cons to Decide'
-date: 2019-10-17T11:22:16.000+06:00
+date: 2020-11-26T22:21:16+00:00
 image: "/images/5.PNG"
 description: this is a meta description
 
