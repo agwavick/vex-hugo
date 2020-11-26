@@ -1,7 +1,7 @@
 ---
 title: The future of staying healthy is sitting on your wrist
 date: 2020-11-26T14:22:16+00:00
-image: "/images/ggggggg.jpg"
+image: "/images/ggg.jpg"
 description: this is a meta description
 
 ---
