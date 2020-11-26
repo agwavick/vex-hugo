@@ -2,7 +2,7 @@
 title: 'Why You Should Buy a Smart Watch: Pros and Cons to Decide'
 date: 2020-11-26T22:21:16+00:00
 image: "/images/5.PNG"
-description: this is a meta description
+description: ''
 
 ---
 **Notifications**  
