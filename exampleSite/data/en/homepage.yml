@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: Get Started
-    link: Signup
+    link: Products
 features:
   enable: true
   title: Which Apple Watch is right for you?
