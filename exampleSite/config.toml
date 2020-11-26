@@ -83,5 +83,5 @@ link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
 enable = true
 preloader = ""
 [params.subscription]
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+mailchimp_form_action = "<script type=\"text/javascript\" src=\"//sgwidget.leaderapps.co/js/sendgrid-widget.js\"></script><div id=\"sendgrid-subscription-widget\" class=\"sendgrid-subscription-widget\" ><form id=\"sg-widget\" data-token=\"e2c37163dc95b4351b82ab699ae28b29\" onsubmit=\"return false;\"><div class=\"sg-response\" id=\"sg-response\"></div><input id=\"email\" type=\"email\" name=\"email\" placeholder=\"you@example.com\" required><input type=\"submit\" id=\"sg-submit-btn\" value=“Subscribe”></form></div>"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
