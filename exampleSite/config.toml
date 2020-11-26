@@ -55,7 +55,7 @@ name = "Contact"
 weight = 5
 [params]
 author = "Psalm23"
-contact_form_action = "#"
+contact_form_action = ""
 currency = "$"
 description = "This is meta description"
 logo = "images/95739741_1288733277979105_7749843137840807936_n.jpg"
